@@ -24,3 +24,15 @@ Install vagrant:
  (wait to vagrant is installed)
 
  To view your web go to [http://192.168.33.22](http://192.168.33.22)
+
+
+Install Grunt
+--------------
+In the project's root directory. (/hml)
+Install project dependencies with npm install
+
+Install Bower
+--------------
+In the project's root directory. (/hml)
+Install project dependencies with bower install
+
